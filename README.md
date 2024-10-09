@@ -31,7 +31,7 @@ git clone https://github.com/lyes-mersel/edutainment.git
 ### **Technologies Used**
 * **Flutter:** For building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 * **Dart:** The programming language used to build Flutter apps.
-* **Firebase:** For backend services such as authentication, cloud storage, and real-time database (optional for features like leaderboards or personalized content).
+* **Firebase:** For backend services such as authentication, cloud storage, and real-time database.
 
 ### **Team Members**
 * **CHETTAB Yacine** (Project Leader)
